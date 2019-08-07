@@ -2,6 +2,6 @@
 function theBeatlesPlay(musicans, instruments) {
   const arr = []
   
-  for (i = 0;)
+  for (let i = 0, musicans.length)
   
 }
