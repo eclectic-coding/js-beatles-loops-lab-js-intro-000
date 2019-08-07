@@ -1,6 +1,7 @@
 // add solution here
 function theBeatlesPlay(musicans, instruments) {
-  var musicans = []
-  var instruments = []
+  const arr = []
+  
+  for (i = 0;)
   
 }
